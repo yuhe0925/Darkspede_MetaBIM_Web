@@ -1,4 +1,7 @@
 **![1716775272241](image/handbook/1716775272241.png)  Metabim Handbook**
+Note: if you find any operation different from our guide, that may be because of the version update
+
+We would very much appreciate it if you can report the issues.
 
 Start from the begining, user Login by default:
 
@@ -146,3 +149,5 @@ splitted sub element can be found in side bar.
 
 
 ![1716788542671](image/handbook/1716788542671.png)
+
+
