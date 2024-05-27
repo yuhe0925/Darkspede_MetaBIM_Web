@@ -1,4 +1,4 @@
-**![1716775272241](image/handbook/1716775272241.png)  Metabim Handbook**
+**![1716775272241](image/handbook/1716775272241.png)  MetaBim Handbook**
 
 Note: if you find any operation different from our guide, that may be because of the version update
 
