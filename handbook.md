@@ -1,4 +1,4 @@
-**![1716789314324](image/handbook/1716789314324.png)  Metabim Handbook**
+**![1716775272241](image/handbook/1716775272241.png)  Metabim Handbook**
 
 Start from the begining, user Login by default:
 
