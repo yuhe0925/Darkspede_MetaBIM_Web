@@ -1,6 +1,4 @@
-# **Metabim Handbook**
-
-![1716775272241](image/handbook/1716775272241.png)
+**![1716789314324](image/handbook/1716789314324.png)  Metabim Handbook**
 
 Start from the begining, user Login by default:
 
@@ -35,7 +33,7 @@ wait several minutes until upload finish
 
 when upload finished, you can open the model
 
-![1716781152302](image/handbook/1716781152302.png)
+![1716789436739](image/handbook/1716789436739.png)
 
 ![1716781191411](image/handbook/1716781191411.png)
 
@@ -104,9 +102,9 @@ use same way to cancel isolation
 
 ## Data Enrich
 
-IFC Class mapping
+IFC Class mapping (Working in Progress...)
 
-Uni Class
+Uni Class (Working in Progress...)
 
 ## Object Spliting
 
@@ -140,7 +138,7 @@ splitted sub element can be found in side bar.
 
 ![1716787975294](image/handbook/1716787975294.png)
 
-## Validation
+## Validation(Working in Progress...)
 
 ## Data Export
 
